@@ -1,7 +1,7 @@
 # Platformer
 NihoManide : Platformer 2D
-![Jeu](Exemples/screen-2820.tif)
-![Menu](Exemples/screen-0868.tif)
-![Menu](Exemples/screen-1226.tif)
+![Jeu](Exemples/jeu.png)
+![Menu](Exemples/menu1.png)
+![Menu](Exemples/penu2.png)
 
 Processing : https://processing.org/

@@ -1,0 +1,47 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR      
+R                                        R      
+R   B   BBB    BB  BB    B    B  B BB    R      
+R   B   B     B    B B  B B  B B B B B   R      
+R   B   BB    B BB BB   BBB  B B B B B   R      
+R   B   B     B  B B B B   B B B B B B   R      
+R   BBB BBB    BB  B B B   B B  B  BB    R      
+R                                        R      
+R            BBB   B   B  B BBBBB        R      
+R           B     B B  B  B   B          R      
+R            BB   BBB  B  B   B          R      
+R              B B   B B  B   B          R      
+R           BBB  B   B  BB    B          R      
+R                                        R      
+R   A                                    R      
+R                                        R      
+RRRRRRRRRRRRRRRRRRR    RRRRRRRRRRRRRRRRRRR      
+R                                        R      
+R                      L                 R      
+R                                        R      
+R                                        R      
+R                      L                 R      
+R                                        R      
+R                     L                  R      
+R                                        R      
+R                                        R      
+R                    L                   R      
+R                                        R      
+R                                        R      
+R                   L                    R      
+R                                        R      
+R                                        R      
+R                  L                     R      
+R                                        R      
+R                                        RRRRRRR
+R      RR      T                                
+R      LLLLLLLLLLLL                             
+R                                               
+R                                               
+R           T                                   
+R           R                                   
+R           R                                   
+R           R                                   
+R           R                                   
+R   T       R    T      T      T      T  RRRRRRR
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+44

@@ -1,0 +1,28 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+R                                              R
+R                                              R
+R                                              R
+R                                              R
+R                                           RRRR
+R                                           RRRR
+R                                           RRRR
+R                                        T  RRRR
+R                                           RRRR
+R                                     T     RRRR
+R                                           RRRR
+R                                           RRRR
+R                               T           RRRR
+R                                           RRRR
+R                             R     R       RRRR
+R                             RRR       T   RRRR
+R                             RRR           RRRR
+R                             RRR           RRRR
+R                             RRR     R     RRRR
+R                                           RRRR
+R                                   R       RRRR
+R           0                               RRRR
+R A       HHHPPPHHHPHHBB B   BBHHHHHHHHHHHHHHHHH
+HHHHHH    HHHHHHHHHHHHH       HHHHHHHHHHHHHHHHHH
+HHHHHH    HHHHHHHHHHHHH       HHHHHHHHHHHHHHHHHH
+HHHHHHLLLLHHHHHHHHHHHHHEPPPPPEHHHHHHHHHHHHHHHHHH
+46
